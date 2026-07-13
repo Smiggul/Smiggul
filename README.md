@@ -22,15 +22,13 @@ I enjoy understanding **how things work**, then making them work better.
 
 ---
 
-## What I'm Working On
+## 📜 Certifications
 
-- Enterprise business automation using C# and .NET
-- SAP & Excel workflow automation
-- Growing **ModMotiveZA**
-- AWS Developer Associate
-- Learning Cybersecurity
-- AI & LLM integrations
-- Building tools that save people time
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]((https://www.credly.com/badges/67af8a32-ae14-4a7a-bba8-e862ee4220f7/public_url))
+
+[![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer%20Associate-In%20Progress-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)]()
+
+[![Odoo CRM](https://img.shields.io/badge/Odoo-CRM%20Training-A347BA?style=for-the-badge&logo=odoo&logoColor=white)]()
 
 ---
 
