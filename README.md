@@ -26,9 +26,9 @@ I enjoy understanding **how things work**, then making them work better.
 
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/67af8a32-ae14-4a7a-bba8-e862ee4220f7/public_url)
 
-[![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer%20Associate-Currently%20Studying-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)]()
+![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer%20Associate-Currently%20Studying-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-[![Odoo CRM](https://img.shields.io/badge/Odoo-CRM%20Training-Certificate%20Pending-A347BA?style=for-the-badge&logo=odoo&logoColor=white)]()
+![Odoo CRM](https://img.shields.io/badge/Odoo-CRM%20Training-Certificate%20Pending-A347BA?style=for-the-badge&logo=odoo&logoColor=white)
 
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Currently%20Learning-00599C?style=for-the-badge&logo=securityscorecard&logoColor=white)]()
 
