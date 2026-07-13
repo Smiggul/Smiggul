@@ -24,7 +24,7 @@ I enjoy understanding **how things work**, then making them work better.
 
 ## 📜 Certifications
 
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)]((https://www.credly.com/badges/67af8a32-ae14-4a7a-bba8-e862ee4220f7/public_url))
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/67af8a32-ae14-4a7a-bba8-e862ee4220f7/public_url)
 
 [![AWS Developer Associate](https://img.shields.io/badge/AWS-Developer%20Associate-In%20Progress-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)]()
 
