@@ -45,18 +45,6 @@ I enjoy understanding **how things work**, then making them work better.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
-### Frameworks & Tools
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
-</p>
-
 ---
 
 ## Professional Interests
@@ -82,15 +70,11 @@ Things that keep me busy when I'm not coding:
 
 💪 Fitness
 
-🎧 Audiophile
-
 🎵 Music
 
-🎮 Competitive Gaming
+🎮 Gaming
 
-🖥 PC Building & Hardware Tuning
-
-🌐 Home Networking
+🖥 PC Building 
 
 🚗 Running my own automotive parts business
 
@@ -151,32 +135,8 @@ Dynamic item recommendation tool built with React.
 
 ---
 
-## Let's Connect
-
-💼 LinkedIn
-
-📫 elardolouw@gmail.com
-
-🇿🇦 Gauteng, South Africa
-
----
-
 <p align="center">
 
 "Continuous improvement beats comfortable repetition."
 
 </p>
-<!--
-**Smiggul/Smiggul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
